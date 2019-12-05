@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/RikDuijm/e-commerce.svg?branch=master)](https://travis-ci.org/RikDuijm/e-commerce)
+
 # Code Institute
 
 Welcome RikDuijm,
